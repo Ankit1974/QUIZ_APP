@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+   <string name="head_line">QUIZ APP</string>
+<string name="Login_Button">START</string>
+<string name="question1">Which of the following option leads to the portability and security of Java?</string>
+<string name="question2"> Which of the following is not a Java features?
+</string>
+<string name="question3">Which method of the Class.class is used to determine the name of a class represented by the class object as a String?</string>
+<string name="question4">Question 4</string>
+<string name="question5">Question 5</string>
+<string name="question6">Question 6</string>
+<string name="question7">Question 7</string>
+<string name="question8">Question 8</string>
+<string name="question9">Question 9</string>
+<string name="question10">Question 10</string>
+<string name="BACK_BUTTON">BACK </string>
+<string name="Answear11">Bytecode is executed by JVM</string>
+<string name="Answear12">The applet makes the Java code secure and portable</string>
+<string name="Answear13">Use of exception handling</string>
+<string name="Answear14">Dynamic binding between objects</string>
+<string name="Answear21">Dynamic</string>
+<string name="Answear22">Architecture Neutral</string>
+<string name="Answear23">Use of pointers</string>
+<string name="Answear24">Object-oriented</string>
+<string name="Question1">QUESTION 1</string>
+<string name="Question2">QUESTION 2</string>
+<string name="Question3">QUESTION 3</string>
+<string name="Question4">QUESTION 4</string>
+<string name="Question5">QUESTION 5</string>
+<string name="Question6">QUESTION 6</string>
+<string name="Question7">QUESTION 7</string>
+<string name="Question8">QUESTION 8</string>
+<string name="Question9">QUESTION 9</string>
+<string name="Question10">QUESTION 10</string>
+<string name="FORWARD_BUTTON">BACK</string>
+    <string name="Last">Result</string>
+</resources>
